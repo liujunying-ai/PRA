@@ -5,9 +5,9 @@ J.-Y. Liu, J.-P. Sun, Y.-H. Zhao, B.-B. Jia. [Augmenting Graph-Based Partial Lab
 
 "PRA_PL_LEAF.m", "PRA_PL_AGGD.m" and "PRA_PL_CL.m" are the main functions of the three base classifiers, which implement the PRA-enhanced versions of PL-LEAF, PL-AGGD and PL-CL, respectively. "ReadMe_PLLEAF.m", "ReadMe_PLAGGD.m" and "ReadMe_PLCL.m" are exemplar files on how the PRA_PL_LEAF, PRA_PL_AGGD and PRA_PL_CL programs could be used, respectively.
 
-### 📁 Base Classifier Source Code
+### 📁 Base Learner Source Code
 
-&zwnj;**NOTE:**&zwnj; In addition to the PRA implementation, this repository contains three folders for the base classifiers: `PL_LEAF/`, `PL_AGGD/`, and `PL_CL/`. Each folder holds the source code of one base classifier. The original implementations were obtained from the following links:
+&zwnj;**NOTE:**&zwnj; In addition to the PRA implementation, this repository contains three folders for the base learners: `PL_LEAF/`, `PL_AGGD/`, and `PL_CL/`. Each folder holds the source code of one base learner. The original implementations were obtained from the following links:
 
 | Method   | Original Source |
 |----------|-----------------|
