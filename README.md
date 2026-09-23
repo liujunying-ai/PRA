@@ -11,8 +11,8 @@ J.-Y. Liu, J.-P. Sun, Y.-H. Zhao, B.-B. Jia. [Augmenting Graph-Based Partial Lab
 
 | Method   | Original Source |
 |----------|-----------------|
-| PL-LEAF  | <https://palm.seu.edu.cn/zhangml/files/PL-LEAF.rar>{target="_blank"} |
-| PL-AGGD  | <https://palm.seu.edu.cn/zhangml/files/PL-AGGD.rar>{target="_blank"} |
-| PL-CL    | <https://palm.seu.edu.cn/zhangml/files/PLCL.rar>{target="_blank"}    |
+| PL-LEAF  | <https://palm.seu.edu.cn/zhangml/files/PL-LEAF.rar> |
+| PL-AGGD  | <https://palm.seu.edu.cn/zhangml/files/PL-AGGD.rar> |
+| PL-CL    | <https://palm.seu.edu.cn/zhangml/files/PLCL.rar>    |
 
 We have made necessary modifications to the source code in order to integrate them with the PRA framework.
